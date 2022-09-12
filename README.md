@@ -38,7 +38,7 @@
 ## Screenshots 📷
 
 Current usage for 👏 `is-odd-api-dev` is: 🗡
-![htop-stat-dev](https://user-images.githubusercontent.com/108177877/189765914-191a62b2-cb58-4466-abd7-3f43d1ec64d5.png)
+![htop-sv](https://user-images.githubusercontent.com/108177877/189773593-9d3fa1d5-99c9-4cbe-82a7-7cbe650792e9.png)
 
 ## API Methods 📡
 
