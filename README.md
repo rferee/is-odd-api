@@ -6,6 +6,8 @@
 ## Features 📊
 
 - Blazing 🔥🔥 fast 🏃🏃!
+- Scalable 📈📈!
+- Native 🇺🇸🇺🇸 support 🇺🇸🇺🇸 for 🇺🇸🇺🇸 all 🇺🇸🇺🇸 operating 🇺🇸🇺🇸 systems 🇺🇸🇺🇸!
 - 100% 📈📈 uptime 📈📈!
 - 100% 💯 vegan 🌱🌱🌱!
 - 📊📊 Returns 💌 whether 📊📊 a 🔥 number 💦🔢 is 🙈💦 odd 🤥 or 💰 not.
