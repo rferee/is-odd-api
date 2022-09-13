@@ -3,6 +3,8 @@
 *This 👈 is 🅱💰 a 🐍 simple API that 🍑 returns 💌 whether 📊📊 a 🔥 number 💦🔢 is 🙈💦 odd 🤥 or 💰 not. ♂ With 👏👼 this 🏽👈 API you 😭💄 can 💁🔫 check ✔ if ❗ a number ❤ is 💦 odd 🤥 or not. 🙅*\
 *However, 💯 there's a 💰😾 twist 🔄🔄...*
 
+Implementation in C (v2.0): [by hatkidchan](https://github.com/hatkidchan/is-odd-api-but-its-in-c)
+
 ## Features 📊
 
 - Blazing 🔥🔥 fast 🏃🏃!
